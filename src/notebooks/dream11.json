@@ -1,0 +1,55 @@
+{
+    "formation": "4-3-1-2",
+    "team": [
+        {
+            "pos": "FW",
+            "name": "Odsonne Édouard",
+            "pred_rating": 5.722993585008704
+        },
+        {
+            "pos": "FW",
+            "name": "Sasa Kalajdzic",
+            "pred_rating": 5.598138859137577
+        },
+        {
+            "pos": "AM",
+            "name": "Jadon Sancho",
+            "pred_rating": 5.794616597315553
+        },
+        {
+            "pos": "CM",
+            "name": "Christian Nørgaard",
+            "pred_rating": 5.826576767552558
+        },
+        {
+            "pos": "DM",
+            "name": "Mateo Kovačić",
+            "pred_rating": 6.074856470991502
+        },
+        {
+            "pos": "CM",
+            "name": "Rayan Cherki",
+            "pred_rating": 5.492304994267768
+        },
+        {
+            "pos": "LB",
+            "name": "James Justin",
+            "pred_rating": 5.527628061660565
+        },
+        {
+            "pos": "CB",
+            "name": "Jorge Cuenca",
+            "pred_rating": 5.610028639627783
+        },
+        {
+            "pos": "CB",
+            "name": "Joe Worrall",
+            "pred_rating": 5.594588755700964
+        },
+        {
+            "pos": "RB",
+            "name": "Noussair Mazraoui",
+            "pred_rating": 5.483276506891846
+        }
+    ]
+}
