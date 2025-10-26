@@ -420,3 +420,4 @@ FodyWeavers.xsd
 *.pkl
 *.pth
 *.json
+data/team_ClusterLabel/*
