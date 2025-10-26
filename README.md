@@ -1,4 +1,4 @@
-# AIcoach
+# Soccor Analytics using ML and AI
 Score prediction for EPL matches and team-specific recommendations to improve gaol probabilities per match
 **Football IQ : Predictive Insights for Winning Stratergies**
 
