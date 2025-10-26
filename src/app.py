@@ -423,7 +423,7 @@ elif page == "📈 Team Stats":
         new_height = int(original_height * 0.5)
         resized_formation_img = formation_img.resize((new_width, new_height), Image.LANCZOS)
         
-        st.image(resized_formation_img, caption=f"{team} Best X Formation", use_container_width=False)
+        st.image(resized_formation_img, caption=f"Best X Formation", use_container_width=False)
     else:
         st.error(error_msg_formation)
         st.info("💡 **Tip**: Make sure your formation images are named as `[TeamName]_formation.jpg` and are in the same directory as your app.")
