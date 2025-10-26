@@ -1,0 +1,311 @@
+Date,Home,Away,pred_home_goals,pred_away_goals,pred_goal_diff,pred_result
+2025-10-26,Arsenal,Crystal Palace,2,0,2,HomeWin
+2025-11-23,Arsenal,Tottenham,2,1,1,HomeWin
+2025-12-03,Arsenal,Brentford,3,1,2,HomeWin
+2025-12-13,Arsenal,Wolves,2,1,1,HomeWin
+2025-12-27,Arsenal,Brighton,2,1,1,HomeWin
+2025-12-30,Arsenal,Aston Villa,3,0,3,HomeWin
+2026-01-07,Arsenal,Liverpool,2,2,0,Draw
+2026-01-24,Arsenal,Manchester Utd,2,0,2,HomeWin
+2026-02-07,Arsenal,Sunderland,2,1,1,HomeWin
+2026-02-28,Arsenal,Chelsea,3,2,1,HomeWin
+2026-03-14,Arsenal,Everton,2,1,1,HomeWin
+2026-04-11,Arsenal,Bournemouth,3,1,2,HomeWin
+2026-04-25,Arsenal,Newcastle Utd,1,0,1,HomeWin
+2026-05-02,Arsenal,Fulham,1,2,-1,AwayWin
+2026-05-17,Arsenal,Burnley,2,0,2,HomeWin
+2025-10-26,Aston Villa,Manchester City,2,1,1,HomeWin
+2025-11-09,Aston Villa,Bournemouth,2,1,1,HomeWin
+2025-11-30,Aston Villa,Wolves,3,1,2,HomeWin
+2025-12-06,Aston Villa,Arsenal,1,1,0,Draw
+2025-12-21,Aston Villa,Manchester Utd,2,1,1,HomeWin
+2026-01-03,Aston Villa,Nott'ham Forest,2,0,2,HomeWin
+2026-01-17,Aston Villa,Everton,2,1,1,HomeWin
+2026-01-31,Aston Villa,Brentford,2,1,1,HomeWin
+2026-02-11,Aston Villa,Brighton,2,2,0,Draw
+2026-02-21,Aston Villa,Leeds United,3,1,2,HomeWin
+2026-03-04,Aston Villa,Chelsea,2,2,0,Draw
+2026-03-21,Aston Villa,West Ham,3,0,3,HomeWin
+2026-04-18,Aston Villa,Sunderland,1,1,0,Draw
+2026-05-02,Aston Villa,Tottenham,1,2,-1,AwayWin
+2026-05-17,Aston Villa,Liverpool,1,2,-1,AwayWin
+2025-10-26,Bournemouth,Nott'ham Forest,1,1,0,Draw
+2025-11-22,Bournemouth,West Ham,1,1,0,Draw
+2025-12-02,Bournemouth,Everton,1,1,0,Draw
+2025-12-06,Bournemouth,Chelsea,2,2,0,Draw
+2025-12-20,Bournemouth,Burnley,2,1,1,HomeWin
+2026-01-03,Bournemouth,Arsenal,2,1,1,HomeWin
+2026-01-07,Bournemouth,Tottenham,1,1,0,Draw
+2026-01-24,Bournemouth,Liverpool,1,2,-1,AwayWin
+2026-02-07,Bournemouth,Aston Villa,1,1,0,Draw
+2026-02-28,Bournemouth,Sunderland,2,1,1,HomeWin
+2026-03-04,Bournemouth,Brentford,2,1,1,HomeWin
+2026-03-21,Bournemouth,Manchester Utd,1,1,0,Draw
+2026-04-25,Bournemouth,Leeds United,1,1,0,Draw
+2026-05-02,Bournemouth,Crystal Palace,1,1,0,Draw
+2026-05-17,Bournemouth,Manchester City,1,1,0,Draw
+2025-10-25,Brentford,Liverpool,2,3,-1,AwayWin
+2025-11-09,Brentford,Newcastle Utd,1,1,0,Draw
+2025-11-29,Brentford,Burnley,1,1,0,Draw
+2025-12-14,Brentford,Leeds United,1,1,0,Draw
+2025-12-27,Brentford,Bournemouth,1,1,0,Draw
+2025-12-30,Brentford,Tottenham,1,2,-1,AwayWin
+2026-01-07,Brentford,Sunderland,1,2,-1,AwayWin
+2026-01-24,Brentford,Nott'ham Forest,1,1,0,Draw
+2026-02-11,Brentford,Arsenal,1,2,-1,AwayWin
+2026-02-21,Brentford,Brighton,1,2,-1,AwayWin
+2026-03-14,Brentford,Wolves,1,1,0,Draw
+2026-04-11,Brentford,Everton,2,1,1,HomeWin
+2026-04-18,Brentford,Fulham,1,2,-1,AwayWin
+2026-05-02,Brentford,West Ham,1,1,0,Draw
+2026-05-17,Brentford,Crystal Palace,1,1,0,Draw
+2025-10-18,Brighton,Newcastle Utd,2,1,1,HomeWin
+2025-11-01,Brighton,Leeds United,2,1,1,HomeWin
+2025-11-22,Brighton,Brentford,2,1,1,HomeWin
+2025-12-03,Brighton,Aston Villa,2,1,1,HomeWin
+2025-12-07,Brighton,West Ham,2,1,1,HomeWin
+2025-12-20,Brighton,Sunderland,2,1,1,HomeWin
+2026-01-03,Brighton,Burnley,3,1,2,HomeWin
+2026-01-17,Brighton,Bournemouth,2,1,1,HomeWin
+2026-01-31,Brighton,Everton,2,1,1,HomeWin
+2026-02-07,Brighton,Crystal Palace,2,1,1,HomeWin
+2026-02-28,Brighton,Nott'ham Forest,2,1,1,HomeWin
+2026-03-04,Brighton,Arsenal,2,1,1,HomeWin
+2026-03-21,Brighton,Liverpool,1,2,-1,AwayWin
+2026-04-25,Brighton,Chelsea,2,2,0,Draw
+2026-05-09,Brighton,Wolves,2,1,1,HomeWin
+2026-05-24,Brighton,Manchester Utd,2,1,1,HomeWin
+2025-10-18,Burnley,Leeds United,1,1,0,Draw
+2025-11-01,Burnley,Arsenal,1,2,-1,AwayWin
+2025-11-22,Burnley,Chelsea,2,3,-1,AwayWin
+2025-12-03,Burnley,Crystal Palace,2,2,0,Draw
+2025-12-13,Burnley,Fulham,2,3,-1,AwayWin
+2025-12-27,Burnley,Everton,1,3,-2,AwayWin
+2025-12-30,Burnley,Newcastle Utd,2,2,0,Draw
+2026-01-07,Burnley,Manchester Utd,2,2,0,Draw
+2026-01-24,Burnley,Tottenham,0,1,-1,AwayWin
+2026-02-07,Burnley,West Ham,2,3,-1,AwayWin
+2026-02-28,Burnley,Brentford,1,2,-1,AwayWin
+2026-03-14,Burnley,Bournemouth,1,1,0,Draw
+2026-04-11,Burnley,Brighton,1,3,-2,AwayWin
+2026-04-25,Burnley,Manchester City,2,3,-1,AwayWin
+2026-05-09,Burnley,Aston Villa,2,3,-1,AwayWin
+2026-05-24,Burnley,Wolves,1,2,-1,AwayWin
+2025-10-25,Chelsea,Sunderland,1,2,-1,AwayWin
+2025-11-08,Chelsea,Wolves,2,1,1,HomeWin
+2025-11-30,Chelsea,Arsenal,1,2,-1,AwayWin
+2025-12-13,Chelsea,Everton,1,1,0,Draw
+2025-12-27,Chelsea,Aston Villa,2,2,0,Draw
+2025-12-30,Chelsea,Bournemouth,1,2,-1,AwayWin
+2026-01-17,Chelsea,Brentford,1,1,0,Draw
+2026-01-31,Chelsea,West Ham,2,1,1,HomeWin
+2026-02-11,Chelsea,Leeds United,2,2,0,Draw
+2026-02-21,Chelsea,Burnley,2,1,1,HomeWin
+2026-03-14,Chelsea,Newcastle Utd,2,2,0,Draw
+2026-04-11,Chelsea,Manchester City,2,2,0,Draw
+2026-04-18,Chelsea,Manchester Utd,2,2,0,Draw
+2026-05-02,Chelsea,Nott'ham Forest,3,1,2,HomeWin
+2026-05-17,Chelsea,Tottenham,1,2,-1,AwayWin
+2025-10-18,Crystal Palace,Bournemouth,1,0,1,HomeWin
+2025-11-01,Crystal Palace,Brentford,2,0,2,HomeWin
+2025-11-09,Crystal Palace,Brighton,1,2,-1,AwayWin
+2025-11-30,Crystal Palace,Manchester Utd,1,2,-1,AwayWin
+2025-12-14,Crystal Palace,Manchester City,2,1,1,HomeWin
+2025-12-27,Crystal Palace,Tottenham,1,2,-1,AwayWin
+2025-12-30,Crystal Palace,Fulham,1,2,-1,AwayWin
+2026-01-07,Crystal Palace,Aston Villa,2,1,1,HomeWin
+2026-01-24,Crystal Palace,Chelsea,2,2,0,Draw
+2026-02-11,Crystal Palace,Burnley,2,1,1,HomeWin
+2026-02-21,Crystal Palace,Wolves,3,1,2,HomeWin
+2026-03-14,Crystal Palace,Leeds United,2,1,1,HomeWin
+2026-04-11,Crystal Palace,Newcastle Utd,1,1,0,Draw
+2026-04-18,Crystal Palace,West Ham,2,1,1,HomeWin
+2026-05-09,Crystal Palace,Everton,2,1,1,HomeWin
+2026-05-24,Crystal Palace,Arsenal,1,0,1,HomeWin
+2025-10-26,Everton,Tottenham,1,1,0,Draw
+2025-11-08,Everton,Fulham,1,2,-1,AwayWin
+2025-11-29,Everton,Newcastle Utd,1,1,0,Draw
+2025-12-06,Everton,Nott'ham Forest,1,1,0,Draw
+2025-12-21,Everton,Arsenal,1,2,-1,AwayWin
+2026-01-03,Everton,Brentford,1,1,0,Draw
+2026-01-07,Everton,Wolves,2,1,1,HomeWin
+2026-01-24,Everton,Leeds United,1,1,0,Draw
+2026-02-11,Everton,Bournemouth,1,1,0,Draw
+2026-02-21,Everton,Manchester Utd,1,1,0,Draw
+2026-03-04,Everton,Burnley,1,0,1,HomeWin
+2026-03-21,Everton,Chelsea,2,2,0,Draw
+2026-04-18,Everton,Liverpool,0,2,-2,AwayWin
+2026-05-02,Everton,Manchester City,1,1,0,Draw
+2026-05-17,Everton,Sunderland,1,1,0,Draw
+2025-10-18,Fulham,Arsenal,1,2,-1,AwayWin
+2025-11-01,Fulham,Wolves,2,2,0,Draw
+2025-11-22,Fulham,Sunderland,2,2,0,Draw
+2025-12-02,Fulham,Manchester City,2,2,0,Draw
+2025-12-07,Fulham,Crystal Palace,1,2,-1,AwayWin
+2025-12-22,Fulham,Nott'ham Forest,2,2,0,Draw
+2026-01-03,Fulham,Liverpool,1,2,-1,AwayWin
+2026-01-07,Fulham,Chelsea,2,2,0,Draw
+2026-01-24,Fulham,Brighton,2,2,0,Draw
+2026-02-07,Fulham,Everton,2,1,1,HomeWin
+2026-02-28,Fulham,Tottenham,1,2,-1,AwayWin
+2026-03-04,Fulham,West Ham,2,2,0,Draw
+2026-03-21,Fulham,Burnley,3,2,1,HomeWin
+2026-04-25,Fulham,Aston Villa,2,2,0,Draw
+2026-05-09,Fulham,Bournemouth,1,1,0,Draw
+2026-05-24,Fulham,Newcastle Utd,1,2,-1,AwayWin
+2025-10-24,Leeds United,West Ham,2,1,1,HomeWin
+2025-11-23,Leeds United,Aston Villa,2,2,0,Draw
+2025-12-03,Leeds United,Chelsea,2,3,-1,AwayWin
+2025-12-06,Leeds United,Liverpool,1,2,-1,AwayWin
+2025-12-21,Leeds United,Crystal Palace,1,2,-1,AwayWin
+2026-01-03,Leeds United,Manchester Utd,1,2,-1,AwayWin
+2026-01-17,Leeds United,Fulham,2,2,0,Draw
+2026-01-31,Leeds United,Arsenal,1,1,0,Draw
+2026-02-07,Leeds United,Nott'ham Forest,2,1,1,HomeWin
+2026-02-28,Leeds United,Manchester City,2,2,0,Draw
+2026-03-04,Leeds United,Sunderland,1,1,0,Draw
+2026-03-21,Leeds United,Brentford,2,1,1,HomeWin
+2026-04-18,Leeds United,Wolves,2,1,1,HomeWin
+2026-05-02,Leeds United,Burnley,2,1,1,HomeWin
+2026-05-17,Leeds United,Brighton,1,2,-1,AwayWin
+2025-10-19,Liverpool,Manchester Utd,1,1,0,Draw
+2025-11-01,Liverpool,Aston Villa,1,1,0,Draw
+2025-11-22,Liverpool,Nott'ham Forest,3,1,2,HomeWin
+2025-12-03,Liverpool,Sunderland,2,1,1,HomeWin
+2025-12-13,Liverpool,Brighton,2,1,1,HomeWin
+2025-12-27,Liverpool,Wolves,2,0,2,HomeWin
+2025-12-30,Liverpool,Leeds United,2,1,1,HomeWin
+2026-01-17,Liverpool,Burnley,3,0,3,HomeWin
+2026-01-31,Liverpool,Newcastle Utd,1,1,0,Draw
+2026-02-07,Liverpool,Manchester City,1,1,0,Draw
+2026-02-28,Liverpool,West Ham,2,1,1,HomeWin
+2026-03-14,Liverpool,Tottenham,1,1,0,Draw
+2026-04-11,Liverpool,Fulham,3,1,2,HomeWin
+2026-04-25,Liverpool,Crystal Palace,1,1,0,Draw
+2026-05-09,Liverpool,Chelsea,3,2,1,HomeWin
+2026-05-24,Liverpool,Brentford,2,1,1,HomeWin
+2025-10-18,Manchester City,Everton,2,1,1,HomeWin
+2025-11-02,Manchester City,Bournemouth,2,1,1,HomeWin
+2025-11-09,Manchester City,Liverpool,1,2,-1,AwayWin
+2025-11-29,Manchester City,Leeds United,3,1,2,HomeWin
+2025-12-06,Manchester City,Sunderland,1,1,0,Draw
+2025-12-20,Manchester City,West Ham,3,0,3,HomeWin
+2026-01-03,Manchester City,Chelsea,2,2,0,Draw
+2026-01-07,Manchester City,Brighton,2,2,0,Draw
+2026-01-24,Manchester City,Wolves,3,1,2,HomeWin
+2026-02-11,Manchester City,Fulham,2,2,0,Draw
+2026-02-21,Manchester City,Newcastle Utd,2,1,1,HomeWin
+2026-03-04,Manchester City,Nott'ham Forest,2,0,2,HomeWin
+2026-03-21,Manchester City,Crystal Palace,2,1,1,HomeWin
+2026-04-18,Manchester City,Arsenal,1,1,0,Draw
+2026-05-09,Manchester City,Brentford,2,1,1,HomeWin
+2026-05-24,Manchester City,Aston Villa,2,1,1,HomeWin
+2025-10-25,Manchester Utd,Brighton,1,2,-1,AwayWin
+2025-11-24,Manchester Utd,Everton,2,1,1,HomeWin
+2025-12-04,Manchester Utd,West Ham,2,1,1,HomeWin
+2025-12-15,Manchester Utd,Bournemouth,1,1,0,Draw
+2025-12-27,Manchester Utd,Newcastle Utd,1,1,0,Draw
+2025-12-30,Manchester Utd,Wolves,3,1,2,HomeWin
+2026-01-17,Manchester Utd,Manchester City,2,1,1,HomeWin
+2026-01-31,Manchester Utd,Fulham,1,2,-1,AwayWin
+2026-02-07,Manchester Utd,Tottenham,1,2,-1,AwayWin
+2026-02-28,Manchester Utd,Crystal Palace,1,2,-1,AwayWin
+2026-03-14,Manchester Utd,Aston Villa,2,1,1,HomeWin
+2026-04-11,Manchester Utd,Leeds United,2,1,1,HomeWin
+2026-04-25,Manchester Utd,Brentford,2,0,2,HomeWin
+2026-05-02,Manchester Utd,Liverpool,1,1,0,Draw
+2026-05-17,Manchester Utd,Nott'ham Forest,2,1,1,HomeWin
+2025-10-25,Newcastle Utd,Fulham,2,1,1,HomeWin
+2025-11-22,Newcastle Utd,Manchester City,1,2,-1,AwayWin
+2025-12-02,Newcastle Utd,Tottenham,1,2,-1,AwayWin
+2025-12-06,Newcastle Utd,Burnley,2,1,1,HomeWin
+2025-12-20,Newcastle Utd,Chelsea,2,2,0,Draw
+2026-01-03,Newcastle Utd,Crystal Palace,1,1,0,Draw
+2026-01-07,Newcastle Utd,Leeds United,1,1,0,Draw
+2026-01-24,Newcastle Utd,Aston Villa,1,2,-1,AwayWin
+2026-02-07,Newcastle Utd,Brentford,2,0,2,HomeWin
+2026-02-28,Newcastle Utd,Everton,1,1,0,Draw
+2026-03-04,Newcastle Utd,Manchester Utd,1,1,0,Draw
+2026-03-21,Newcastle Utd,Sunderland,1,1,0,Draw
+2026-04-18,Newcastle Utd,Bournemouth,1,1,0,Draw
+2026-05-02,Newcastle Utd,Brighton,1,2,-1,AwayWin
+2026-05-17,Newcastle Utd,West Ham,2,0,2,HomeWin
+2025-10-18,Nott'ham Forest,Chelsea,2,3,-1,AwayWin
+2025-11-01,Nott'ham Forest,Manchester Utd,1,1,0,Draw
+2025-11-09,Nott'ham Forest,Leeds United,1,1,0,Draw
+2025-11-30,Nott'ham Forest,Brighton,1,2,-1,AwayWin
+2025-12-14,Nott'ham Forest,Tottenham,1,2,-1,AwayWin
+2025-12-27,Nott'ham Forest,Manchester City,1,3,-2,AwayWin
+2025-12-30,Nott'ham Forest,Everton,1,2,-1,AwayWin
+2026-01-17,Nott'ham Forest,Arsenal,1,2,-1,AwayWin
+2026-01-31,Nott'ham Forest,Crystal Palace,1,1,0,Draw
+2026-02-11,Nott'ham Forest,Wolves,1,2,-1,AwayWin
+2026-02-21,Nott'ham Forest,Liverpool,1,3,-2,AwayWin
+2026-03-14,Nott'ham Forest,Fulham,2,2,0,Draw
+2026-04-11,Nott'ham Forest,Aston Villa,1,3,-2,AwayWin
+2026-04-18,Nott'ham Forest,Burnley,2,1,1,HomeWin
+2026-05-09,Nott'ham Forest,Newcastle Utd,1,1,0,Draw
+2026-05-24,Nott'ham Forest,Bournemouth,1,1,0,Draw
+2025-10-18,Sunderland,Wolves,2,1,1,HomeWin
+2025-11-03,Sunderland,Everton,2,0,2,HomeWin
+2025-11-08,Sunderland,Arsenal,1,3,-2,AwayWin
+2025-11-29,Sunderland,Bournemouth,1,1,0,Draw
+2025-12-14,Sunderland,Newcastle Utd,2,1,1,HomeWin
+2025-12-27,Sunderland,Leeds United,2,1,1,HomeWin
+2025-12-30,Sunderland,Manchester City,2,2,0,Draw
+2026-01-17,Sunderland,Crystal Palace,1,1,0,Draw
+2026-01-31,Sunderland,Burnley,2,1,1,HomeWin
+2026-02-11,Sunderland,Liverpool,1,2,-1,AwayWin
+2026-02-21,Sunderland,Fulham,1,2,-1,AwayWin
+2026-03-14,Sunderland,Brighton,2,1,1,HomeWin
+2026-04-11,Sunderland,Tottenham,1,1,0,Draw
+2026-04-25,Sunderland,Nott'ham Forest,2,1,1,HomeWin
+2026-05-09,Sunderland,Manchester Utd,1,1,0,Draw
+2026-05-24,Sunderland,Chelsea,2,2,0,Draw
+2025-10-19,Tottenham,Aston Villa,1,1,0,Draw
+2025-11-01,Tottenham,Chelsea,1,1,0,Draw
+2025-11-08,Tottenham,Manchester Utd,1,1,0,Draw
+2025-11-29,Tottenham,Fulham,1,2,-1,AwayWin
+2025-12-06,Tottenham,Brentford,1,0,1,HomeWin
+2025-12-20,Tottenham,Liverpool,0,2,-2,AwayWin
+2026-01-03,Tottenham,Sunderland,1,1,0,Draw
+2026-01-17,Tottenham,West Ham,1,1,0,Draw
+2026-01-31,Tottenham,Manchester City,1,1,0,Draw
+2026-02-11,Tottenham,Newcastle Utd,1,1,0,Draw
+2026-02-21,Tottenham,Arsenal,1,2,-1,AwayWin
+2026-03-04,Tottenham,Crystal Palace,1,1,0,Draw
+2026-03-21,Tottenham,Nott'ham Forest,1,1,0,Draw
+2026-04-18,Tottenham,Brighton,1,2,-1,AwayWin
+2026-05-09,Tottenham,Leeds United,1,1,0,Draw
+2026-05-24,Tottenham,Everton,2,1,1,HomeWin
+2025-10-20,West Ham,Brentford,1,1,0,Draw
+2025-11-02,West Ham,Newcastle Utd,0,2,-2,AwayWin
+2025-11-08,West Ham,Burnley,2,1,1,HomeWin
+2025-11-30,West Ham,Liverpool,1,3,-2,AwayWin
+2025-12-14,West Ham,Aston Villa,1,3,-2,AwayWin
+2025-12-27,West Ham,Fulham,2,2,0,Draw
+2025-12-30,West Ham,Brighton,1,2,-1,AwayWin
+2026-01-07,West Ham,Nott'ham Forest,2,2,0,Draw
+2026-01-24,West Ham,Sunderland,0,1,-1,AwayWin
+2026-02-11,West Ham,Manchester Utd,0,2,-2,AwayWin
+2026-02-21,West Ham,Bournemouth,1,1,0,Draw
+2026-03-14,West Ham,Manchester City,1,3,-2,AwayWin
+2026-04-11,West Ham,Wolves,2,2,0,Draw
+2026-04-25,West Ham,Everton,1,2,-1,AwayWin
+2026-05-09,West Ham,Arsenal,1,2,-1,AwayWin
+2026-05-24,West Ham,Leeds United,0,2,-2,AwayWin
+2025-10-26,Wolves,Burnley,2,1,1,HomeWin
+2025-11-22,Wolves,Crystal Palace,1,2,-1,AwayWin
+2025-12-03,Wolves,Nott'ham Forest,2,1,1,HomeWin
+2025-12-08,Wolves,Manchester Utd,1,2,-1,AwayWin
+2025-12-20,Wolves,Brentford,1,1,0,Draw
+2026-01-03,Wolves,West Ham,1,1,0,Draw
+2026-01-17,Wolves,Newcastle Utd,1,1,0,Draw
+2026-01-31,Wolves,Bournemouth,1,1,0,Draw
+2026-02-07,Wolves,Chelsea,2,3,-1,AwayWin
+2026-02-28,Wolves,Aston Villa,1,2,-1,AwayWin
+2026-03-04,Wolves,Liverpool,1,3,-2,AwayWin
+2026-03-21,Wolves,Arsenal,1,2,-1,AwayWin
+2026-04-25,Wolves,Tottenham,1,2,-1,AwayWin
+2026-05-02,Wolves,Sunderland,1,1,0,Draw
+2026-05-17,Wolves,Fulham,2,2,0,Draw
