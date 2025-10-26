@@ -10,7 +10,7 @@ from playwright.sync_api import sync_playwright
 # -----------------------------
 # Config
 # -----------------------------
-BASE_DIR = "Premier_League_2025_2026"
+BASE_DIR = "Premier_League_2025_2026_NEW"
 PLAYER_TABS = ["summary", "passing", "passing_types", "defense", "possession", "misc", "keeper", "keeper_adv"]
 
 # -----------------------------
@@ -166,7 +166,7 @@ def scrape_player_tabs(player_name, player_profile_url, team_dir, page):
     for tab in PLAYER_TABS:
         try:
             if matchlog_link and "/matchlogs/" in matchlog_link:
-                tab_url = re.sub(r"/matchlogs/\d{4}-\d{4}/", "/matchlogs/2025-2026/", matchlog_link)
+                tab_url = re.sub(r"/matchlogs/(?:\d{4}(?:-\d{4})?)/", "/matchlogs/2025-2026/", matchlog_link)
                 tab_url = tab_url.replace("/matchlogs/2025-2026/", f"/matchlogs/2025-2026/{tab}/")
             else:
                 print(f"       ⚠️ No dedicated link for {tab}, skipping")
@@ -246,6 +246,8 @@ def scrape_team(team_name, team_url, page):
         if not a:
             continue
         player_name = player_th.get_text(strip=True)
+        if player_name not in ['Noah Okafor']:
+            continue
         player_profile_url = urljoin("https://fbref.com", a["href"])
         print(f"  -> Player: {player_name}")
         scrape_player_tabs(player_name, player_profile_url, team_dir, page)
@@ -282,10 +284,9 @@ def scrape_premier_league():
 
         for team_name, team_url in teams.items():
             team_name_clean = team_name.replace("\xa0", " ").lower()
-            if team_name_clean not in ["west ham", "everton","liverpool","arsenal","chelsea","burnley","brentford","bournemouth","manchester city"]:
-                print(f"\n=== Team: {team_name} ===")
-                scrape_team(team_name, team_url, page)
-                time.sleep(random.uniform(5,10))
+            print(f"\n=== Team: {team_name} ===")
+            scrape_team(team_name, team_url, page)
+            time.sleep(random.uniform(5,10))
 
         browser.close()
 

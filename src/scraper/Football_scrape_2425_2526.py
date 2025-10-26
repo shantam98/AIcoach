@@ -10,7 +10,7 @@ from playwright.sync_api import sync_playwright
 # -----------------------------
 # Config
 # -----------------------------
-BASE_DIR = "Premier_League_2024_2025_2025_2026"
+BASE_DIR = "Premier_League_2024_2025_2025_2026_NEW"
 PLAYER_TABS = ["summary", "passing", "passing_types", "defense", "possession", "misc", "keeper", "keeper_adv"]
 
 # -----------------------------
@@ -166,7 +166,7 @@ def scrape_player_tabs(player_name, player_profile_url, team_dir, page):
     for tab in PLAYER_TABS:
         try:
             if matchlog_link and "/matchlogs/" in matchlog_link:
-                tab_url = re.sub(r"/matchlogs/\d{4}-\d{4}/", "/matchlogs/2024-2025/", matchlog_link)
+                tab_url = re.sub(r"/matchlogs/(?:\d{4}(?:-\d{4})?)/", "/matchlogs/2024-2025/", matchlog_link)
                 tab_url = tab_url.replace("/matchlogs/2024-2025/", f"/matchlogs/2024-2025/{tab}/")
             else:
                 print(f"       ⚠️ No dedicated link for {tab}, skipping")
@@ -282,10 +282,9 @@ def scrape_premier_league():
 
         for team_name, team_url in teams.items():
             team_name_clean = team_name.replace("\xa0", " ").lower()
-            if team_name_clean not in ["chelsea", "burnley","brentford","arsenal","bournemouth","manchester city","fulham","brighton","aston villa","tottenham","crystal palace","sunderland","newcastle utd","west ham","everton","liverpool"]:
-                print(f"\n=== Team: {team_name} ===")
-                scrape_team(team_name, team_url, page)
-                time.sleep(random.uniform(5,10))
+            print(f"\n=== Team: {team_name} ===")
+            scrape_team(team_name, team_url, page)
+            time.sleep(random.uniform(5,10))
 
         browser.close()
 
