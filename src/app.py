@@ -293,7 +293,7 @@ def get_upcoming_matches(team, start_date, df=predictdf, days=14):
     # print('end_date:', end_date.date())
     team_matches = df[((df['Home'] == team) | (df['Away'] == team)) & (df['Date'] >= start_date.strftime('%Y-%m-%d')) & (df['Date'] <= end_date.strftime('%Y-%m-%d'))]
     # Generate random dates within the next two weeks
-    match_dates = team_matches['Date'].dt.date.tolist()
+    match_dates = []
     opponents = []
     homeaway = []
     for _, row in team_matches.iterrows():
@@ -304,8 +304,7 @@ def get_upcoming_matches(team, start_date, df=predictdf, days=14):
             opponents.append(row['Home'])
             homeaway.append("Away")
 
-    # Sort dates
-    match_dates.sort()
+        match_dates.append(row['Date'].date())
     
     # Create matches dataframe
     matches = pd.DataFrame({
@@ -313,6 +312,8 @@ def get_upcoming_matches(team, start_date, df=predictdf, days=14):
         "Date": match_dates,
         "homeaway": homeaway
     })
+
+    matches.sort_values(by="Date",inplace=True)
     
     return matches
 
@@ -426,4 +427,5 @@ elif page == "📈 Team Stats":
         st.image(resized_formation_img, caption=f"Best X Formation", use_container_width=False)
     else:
         st.error(error_msg_formation)
+
         st.info("💡 **Tip**: Make sure your formation images are named as `[TeamName]_formation.jpg` and are in the same directory as your app.")
